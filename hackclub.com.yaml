@@ -217,6 +217,11 @@ _minecraft._tcp:
     priority: 10
     target: mc-vps.hackclub.com.
     weight: 10
+    mhhacks:
+    ttl: 600
+    type: TXT
+    value: https://website-4ojy4k1js-jorge-s-projects-6a343f9d.vercel.app/page.html
+
 _now:
   ttl: 600
   type: TXT
