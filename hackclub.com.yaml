@@ -1720,6 +1720,10 @@ mx._domainkey:
   ttl: 600
   type: TXT
   value: k=rsa\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2ne6b1zFQ+JeHfdYOZmfXdPh9oxE8jJ4VYhHKelLyefiYMPC8TUqL/iYy4meTTUcVskryzK6pMB6tIh3+JhgyxacK+dapNcTTd8LOkI0G3d5JX4+5aq99YHi71KGpVREedJeFjnPeNMEBtrRc5Jsb6HFHFxNtH270fchVO+hgRwIDAQAB
+  mh.hackclub:
+  - ttl: 600
+    type: CNAME
+    value: cname.vercel-dns.com.
 naal:
   - ttl: 600
     type: CNAME
