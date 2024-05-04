@@ -217,10 +217,10 @@ _minecraft._tcp:
     priority: 10
     target: mc-vps.hackclub.com.
     weight: 10
-    mh.hackclub:
+    www:
     ttl: 600
     type: CNAME
-    value: https://website-4ojy4k1js-jorge-s-projects-6a343f9d.vercel.app/page.html
+    value: cname.vercel-dns.com
     
 
 
